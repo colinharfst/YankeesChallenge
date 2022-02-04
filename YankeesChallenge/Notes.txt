@@ -1,0 +1,99 @@
+TEAMS
+COLUMN_NAME = teamid
+COLUMN_NAME = name
+COLUMN_NAME = abbr
+COLUMN_NAME = leagueid
+COLUMN_NAME = city
+
+PLAYERS
+COLUMN_NAME = playerid
+COLUMN_NAME = lastname
+COLUMN_NAME = firstname
+COLUMN_NAME = usesname
+COLUMN_NAME = bats
+COLUMN_NAME = throws
+COLUMN_NAME = position
+COLUMN_NAME = number
+COLUMN_NAME = headshoturl
+COLUMN_NAME = teamid
+COLUMN_NAME = birthdate
+COLUMN_NAME = birthcity
+COLUMN_NAME = birthcountry
+COLUMN_NAME = birthstate
+COLUMN_NAME = height
+COLUMN_NAME = weight
+
+LEAGUES
+COLUMN_NAME = leagueid
+COLUMN_NAME = name
+COLUMN_NAME = levelid
+
+LEVELS
+COLUMN_NAME = levelid
+COLUMN_NAME = abbr
+COLUMN_NAME = name
+COLUMN_NAME = sortorder
+
+PLAYERMETRICS
+COLUMN_NAME = pitcherid
+COLUMN_NAME = batterid
+COLUMN_NAME = pitch_result
+COLUMN_NAME = pitch_type
+COLUMN_NAME = pitch_velocity
+COLUMN_NAME = platex
+COLUMN_NAME = platey
+COLUMN_NAME = hit_velocity
+COLUMN_NAME = hit_vertical_angle
+
+PSTATSPLAYERSSEASONSBYTEAM
+COLUMN_NAME = playerid
+COLUMN_NAME = yearid
+COLUMN_NAME = levelid
+COLUMN_NAME = teamid
+COLUMN_NAME = g
+COLUMN_NAME = ab
+COLUMN_NAME = b1
+COLUMN_NAME = b2
+COLUMN_NAME = b3
+COLUMN_NAME = hr
+COLUMN_NAME = ubb
+COLUMN_NAME = hbp
+COLUMN_NAME = so
+COLUMN_NAME = ibb
+COLUMN_NAME = sh
+COLUMN_NAME = sf
+COLUMN_NAME = pa
+COLUMN_NAME = r
+COLUMN_NAME = outs
+COLUMN_NAME = er
+COLUMN_NAME = gs
+COLUMN_NAME = gf
+COLUMN_NAME = cg
+COLUMN_NAME = sho
+COLUMN_NAME = w
+COLUMN_NAME = l
+COLUMN_NAME = sv
+
+BSTATSPLAYERSSEASONSBYTEAM
+COLUMN_NAME = playerid
+COLUMN_NAME = yearid
+COLUMN_NAME = levelid
+COLUMN_NAME = teamid
+COLUMN_NAME = g
+COLUMN_NAME = ab
+COLUMN_NAME = b1
+COLUMN_NAME = b2
+COLUMN_NAME = b3
+COLUMN_NAME = hr
+COLUMN_NAME = ubb
+COLUMN_NAME = hbp
+COLUMN_NAME = so
+COLUMN_NAME = ci
+COLUMN_NAME = ibb
+COLUMN_NAME = sh
+COLUMN_NAME = sf
+COLUMN_NAME = sb
+COLUMN_NAME = cs
+COLUMN_NAME = pa
+COLUMN_NAME = r
+COLUMN_NAME = rbi
